@@ -1,3 +1,7 @@
+Image of Pizza Store
+![image](https://github.com/MeenakshiNS/pizzaMenu/assets/130451378/c892b475-da39-4c18-ba67-142ff195b6df)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
