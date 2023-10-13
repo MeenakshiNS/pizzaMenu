@@ -1,4 +1,4 @@
-Image of Pizza Store
+Image of Pizza Store(frontend using React library)
 ![image](https://github.com/MeenakshiNS/pizzaMenu/assets/130451378/c892b475-da39-4c18-ba67-142ff195b6df)
 
 
